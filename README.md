@@ -1,6 +1,16 @@
 # Harmony Hotel – Otel Bilgi ve Yönetim Sistemi
 
 ## GİRİŞ
+### Projenin Konusu:
+Harmony Hotel, otel işletmelerinin yönetimini kolaylaştırmak ve optimize etmek için geliştirilmiş bir bilgi ve yönetim sistemi platformudur. Bu platform, müşteri rezervasyonlarından personel yönetimine kadar geniş bir yelpazede otel işletmeciliği süreçlerini yönetmeyi amaçlar.
+
+### Projenin Amacı:
+Harmony Hotel'in temel amacı, otel işletmelerinin günlük operasyonlarını verimli bir şekilde yürütmelerine yardımcı olmaktır. Bu sistem, kullanıcı dostu arayüzü ve kapsamlı özellikleriyle otel personellerinin müşteri rezervasyonları, oda yönetimi ve genel işleyişte daha verimli olmalarını hedefler. Aynı zamanda, admin kullanıcılarına geniş yetkilendirme ile otel yönetimini detaylı bir şekilde izleme ve analiz etme imkanı sunar.
+
+### Proje Tanımı:
+Harmony Hotel - Otel Bilgi ve Yönetim Sistemi, sadelik, kullanım kolaylığı ve veri odaklı bir yaklaşımla tasarlanmıştır. Bu platform, personel ve admin kullanıcılarına özel yetkilendirme ile farklı işlevsellikler sunar. Personel, müşteri kayıtlarını yönetebilir, rezervasyonları düzenleyebilir ve odaların durumunu güncelleyebilirken, admin kullanıcıları geniş yetkilendirme ile personel yönetimi, müşteri kayıtları, rezervasyonlar ve otel genel bilgilerine erişebilir.
+
+Yönetim paneli, sadece genel bilgilerle sınırlı kalmaz; aynı zamanda otelin performansını anlamak için detaylı analizler sunar. Sezon bazlı rezervasyon dağılımları, ülke bazlı müşteri tercihleri, en popüler ödeme ve oda tipleri gibi veriler, grafikler ve analitik raporlarla görsel olarak sunulur. Bu analizler, otel yöneticilerine kararlarını destekleme, trendleri takip etme ve stratejik planlama yapma konusunda değerli bir yol haritası sunar.
 
 
 ## Preview
