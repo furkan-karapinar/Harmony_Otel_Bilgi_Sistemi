@@ -1,4 +1,4 @@
-# Harmony Hotel – Otel Bilgi ve Yönetim Sistemi
+# Harmony Hotel – Otel Bilgi ve Yönetim Sistemi (Internet Programcılığı Projesi)
 
 ## GİRİŞ
 ### Projenin Konusu:
