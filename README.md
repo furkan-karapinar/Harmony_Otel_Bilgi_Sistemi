@@ -28,6 +28,7 @@ Select2: Gelişmiş ve kullanıcı dostu seçim alanları oluşturmak için Sele
 
 SweetAlert2: Kullanıcı etkileşimlerini geliştirmek ve kullanıcıya daha hoş ve interaktif bildirimler sunmak için SweetAlert2 tercih edilmiştir.
 
+## Projeye Dair Görüntüler
 
 ![image](https://github.com/furkan-karapinar/Harmony_Otel_Bilgi_Sistemi/assets/159263067/f38ad462-2f65-4576-8c54-18fa6cbd4d58)
 
