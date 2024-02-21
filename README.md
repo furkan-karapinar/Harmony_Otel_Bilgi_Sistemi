@@ -27,8 +27,9 @@ ECharts: Grafik ve veri görselleştirmesi için ECharts kütüphanesi kullanıl
 Select2: Gelişmiş ve kullanıcı dostu seçim alanları oluşturmak için Select2 kullanılmıştır. Özellikle çeşitli seçenekler içeren alanlarda kullanıcı deneyimini artırmak için tercih edilmiştir.
 
 SweetAlert2: Kullanıcı etkileşimlerini geliştirmek ve kullanıcıya daha hoş ve interaktif bildirimler sunmak için SweetAlert2 tercih edilmiştir.
-![image](https://github.com/furkan-karapinar/Harmony_Otel_Bilgi_Sistemi/assets/159263067/ca95f4e4-b29c-41e2-8ab3-38a041da375d)
 
+
+![image](https://github.com/furkan-karapinar/Harmony_Otel_Bilgi_Sistemi/assets/159263067/f38ad462-2f65-4576-8c54-18fa6cbd4d58)
 
 
 [![SB Admin 2 Preview](https://assets.startbootstrap.com/img/screenshots/themes/sb-admin-2.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
