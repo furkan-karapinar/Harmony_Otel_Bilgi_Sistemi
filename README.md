@@ -13,7 +13,23 @@ Harmony Hotel - Otel Bilgi ve Yönetim Sistemi, sadelik, kullanım kolaylığı 
 Yönetim paneli, sadece genel bilgilerle sınırlı kalmaz; aynı zamanda otelin performansını anlamak için detaylı analizler sunar. Sezon bazlı rezervasyon dağılımları, ülke bazlı müşteri tercihleri, en popüler ödeme ve oda tipleri gibi veriler, grafikler ve analitik raporlarla görsel olarak sunulur. Bu analizler, otel yöneticilerine kararlarını destekleme, trendleri takip etme ve stratejik planlama yapma konusunda değerli bir yol haritası sunar.
 
 
-## Preview
+## KULLANILAN TEKNİK VE YÖNTEMLER
+PHP: Proje temel altyapısını oluşturmak için kullanılmıştır. Sunucu taraflı işlemleri yürütmek, veritabanı ile etkileşim sağlamak ve dinamik içerik oluşturmak için PHP tercih edilmiştir.
+
+Bootstrap: Projede kullanıcı arayüzünün duyarlılık ve tasarım uyumluluğunu sağlamak için tercih edilmiştir. Mobil cihazlardan masaüstüne kadar farklı ekran boyutlarına uygun tasarım sunar.
+
+MySQL: Veritabanı yönetimi için MySQL kullanılmıştır. Müşteri bilgileri, rezervasyonlar, oda durumları gibi verilerin depolanması ve yönetilmesi için MySQL veritabanı kullanılmıştır.
+
+JavaScript: Kullanıcı arayüzünde interaktiflik ve dinamizmi artırmak için JavaScript kullanılmıştır. Sayfa üzerindeki etkileşimleri geliştirmek ve bazı istemci taraflı işlemleri gerçekleştirmek için tercih edilmiştir.
+
+ECharts: Grafik ve veri görselleştirmesi için ECharts kütüphanesi kullanılmıştır. Sezon dağılımları, ülke bazlı istatistikler gibi verilerin görselleştirilmesi için bu kütüphane tercih edilmiştir.
+
+Select2: Gelişmiş ve kullanıcı dostu seçim alanları oluşturmak için Select2 kullanılmıştır. Özellikle çeşitli seçenekler içeren alanlarda kullanıcı deneyimini artırmak için tercih edilmiştir.
+
+SweetAlert2: Kullanıcı etkileşimlerini geliştirmek ve kullanıcıya daha hoş ve interaktif bildirimler sunmak için SweetAlert2 tercih edilmiştir.
+![image](https://github.com/furkan-karapinar/Harmony_Otel_Bilgi_Sistemi/assets/159263067/ca95f4e4-b29c-41e2-8ab3-38a041da375d)
+
+
 
 [![SB Admin 2 Preview](https://assets.startbootstrap.com/img/screenshots/themes/sb-admin-2.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
